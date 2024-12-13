@@ -7,6 +7,8 @@ const Footer = () => {
             <p className="lead mb-0">Daily Expense Log</p>
             <p>Catat setiap pemasukan dan pengeluaranmu.
             </p>
+            <p>Muhammad Hasan - 2024
+            </p>
           </div>
         </div>
       </div>
