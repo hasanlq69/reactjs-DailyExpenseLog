@@ -1,4 +1,4 @@
-#Daily financial recording application using react JS
+# Daily financial recording application using react JS
 https://expense-tracker-hasanlq69.web.app/
 
 # Getting Started with Create React App
