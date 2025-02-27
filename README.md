@@ -1,5 +1,7 @@
 # Daily financial recording application using react JS
+
 https://expense-tracker-hasanlq69.web.app/
+
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/645be242-16ee-452d-97a0-f7bc4a8a8287" />
 # Getting Started with Create React App
 
